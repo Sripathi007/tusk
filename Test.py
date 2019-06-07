@@ -1,2 +1,4 @@
 --Python Script for Hello world.
-print('Hello')
+def sample()
+print(Hello)
+sample(20)
